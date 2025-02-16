@@ -5,7 +5,6 @@ I'm a **Computer Science Student** at the University of Rochester passionate abo
 
 - 🌱 Learning: **Distributed Systems, MERN**  
 - 🌍 Languages: **Python, Java, JavaScript, TypeScript**  
-- 📫 Reach me: **shegde@u.rochester.edu**  
 
 ## My Skills 🧠  
 **Languages**:  
