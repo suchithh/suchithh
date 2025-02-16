@@ -26,8 +26,8 @@ I'm a **Computer Science Student** at the University of Rochester passionate abo
 ### 1. **Netherite** | *MLH Dandyhacks 24 Winner*  
 [![GitHub Repo](https://img.shields.io/badge/Repo-Netherite-4B0082?style=flat)](https://github.com/sidnarsipur/Netherite)  
 **Tech Stack:** Python, FastAPI, PyTorch, AWS  
-- Won **MLH Dandyhacks 2024** for an AI-powered mineral identification tool using spectral analysis.  
-
+- Won **MLH Dandyhacks 2024** for an AI-powered Github like platform for sharing notes.
+ 
 ### 2. **Group4Good** | *HackMIT 2024*  
 [![GitHub Repo](https://img.shields.io/badge/Repo-Group4Good-4B0082?style=flat)](https://github.com/suchithh/Group4Good-HackMIT-2024)  
 **Tech Stack:** Python, Flask, IRIS Vector Search  
