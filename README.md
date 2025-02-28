@@ -1,12 +1,12 @@
 # Hi there, I'm Suchith! 👋  
 
 ## About Me 🚀  
-I'm a **Computer Science Student** at the University of Rochester passionate about full-stack development, AI/ML, and building scalable systems. Currently contributing to open-source projects. Feel free to contact me.
+I'm a Computer Science Student at the University of Rochester passionate about full-stack development, AI/ML, and building scalable systems. Currently contributing to open-source projects. Feel free to contact me.
 
 - 🌱 Learning: **Distributed Systems, MERN**  
 - 🌍 Languages: **Python, Java, JavaScript, TypeScript**  
 
-## My Skills 🧠  
+## My Skills 
 **Languages**:  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
