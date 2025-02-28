@@ -1,4 +1,4 @@
-# Hi there, I'm Suchith Hegde! 👋  
+# Hi there, I'm Suchith! 👋  
 
 ## About Me 🚀  
 I'm a **Computer Science Student** at the University of Rochester passionate about full-stack development, AI/ML, and building scalable systems. Currently contributing to open-source projects. Feel free to contact me.
@@ -20,23 +20,6 @@ I'm a **Computer Science Student** at the University of Rochester passionate abo
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-
-## Featured Projects 💻  
-
-### 1. **Netherite** | *MLH Dandyhacks 24 Winner*  
-[![GitHub Repo](https://img.shields.io/badge/Repo-Netherite-4B0082?style=flat)](https://github.com/sidnarsipur/Netherite)  
-**Tech Stack:** Python, Next.js, Pinecone, Firebase
-- Won **MLH Dandyhacks 2024** for an AI-powered Github like platform for sharing notes.
- 
-### 2. **Group4Good** | *HackMIT 2024*  
-[![GitHub Repo](https://img.shields.io/badge/Repo-Group4Good-4B0082?style=flat)](https://github.com/suchithh/Group4Good-HackMIT-2024)  
-**Tech Stack:** Python, Flask, IRIS Vector Search, React.js
-- Charity recommendation engine achieving **90% accuracy** via K-Means clustering on transaction data.  
-
-### 3. **3D PBR Material Generator**  
-[![GitHub Repo](https://img.shields.io/badge/Repo-PBR_Generator-4B0082?style=flat)](https://github.com/suchithh/3D-PBR-Material-Generation)  
-**Tech Stack:** PyTorch, ControlNet, CUDA  
-- AI model reducing texture generation error rates by **10%** for 3D rendering pipelines.  
 
 ## Get in Touch 📬  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Suchith_Hegde-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/suchith-hegde)
